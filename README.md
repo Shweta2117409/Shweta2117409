@@ -25,7 +25,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shweta2117409&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shweta2117409&theme=tokyonight" height="165"/>
@@ -37,13 +36,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta2117409&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shweta2117409&theme=darkhub&row=1"/>
 </p>
 
 ---
